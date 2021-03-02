@@ -1,0 +1,1 @@
+# stc-browser-extension
